@@ -7,4 +7,4 @@ In this problem, we’re interested in finding the shortest path between any two
 
 We can frame this as a search problem: our states are people. Our actions are movies, which take us from one actor to another (it’s true that a movie could take us to multiple different actors, but that’s okay for this problem). Our initial state and goal state are defined by the two people we’re trying to connect. By using breadth-first search, we can find the shortest path from one actor to another.
 ### Understanding
-pass
+There are two kinds of CSV data files. One is large, other is small.
